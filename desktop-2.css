@@ -1,0 +1,140 @@
+.desktop-2-child {
+  position: absolute;
+  top: -52px;
+  left: 0;
+  background-color: var(--color-lightcyan);
+  width: 1440px;
+  height: 920px;
+}
+.about-us2,
+.home2,
+.product2,
+.services2 {
+  position: absolute;
+  top: 52px;
+  display: inline-block;
+  width: 145px;
+  height: 53px;
+}
+.home2 {
+  text-decoration: none;
+  left: 397px;
+  font-weight: 700;
+  color: inherit;
+}
+.about-us2,
+.product2,
+.services2 {
+  left: 529px;
+}
+.about-us2,
+.product2 {
+  left: 685px;
+}
+.about-us2 {
+  left: 830px;
+  color: var(--color-gray-200);
+}
+.desktop-2-item {
+  position: absolute;
+  top: 43px;
+  left: 1088px;
+  border-radius: var(--br-16xl);
+  background: linear-gradient(266.95deg, #0a80a1, rgba(78, 214, 218, 0.68));
+  width: 165px;
+  height: 52px;
+}
+.register2 {
+  position: absolute;
+  top: 52px;
+  left: 1118px;
+  display: inline-block;
+  color: var(--color-white);
+  width: 258px;
+  height: 59px;
+}
+.pic-1-12 {
+  position: absolute;
+  top: 106px;
+  left: 0;
+  width: 1476px;
+  height: 981px;
+  object-fit: cover;
+}
+.desktop-2-child1,
+.desktop-2-inner {
+  position: absolute;
+  top: 689px;
+  left: 85px;
+  border-radius: var(--br-16xl);
+  background-color: var(--color-white);
+  width: 274px;
+  height: 72px;
+}
+.desktop-2-child1 {
+  background-color: var(--color-mediumturquoise);
+}
+.try-free-consultation2 {
+  position: absolute;
+  top: 712px;
+  left: 99px;
+  font-size: var(--font-size-3xl);
+  display: inline-block;
+  color: var(--color-black);
+  width: 283px;
+  height: 39px;
+}
+.pic-3-12 {
+  position: absolute;
+  top: 1087px;
+  left: 0;
+  width: 1421px;
+  height: 389px;
+  object-fit: cover;
+}
+.desktop-2-child2,
+.desktop-2-child3,
+.desktop-2-child4 {
+  position: absolute;
+  top: 1577px;
+  border-radius: var(--br-84xl);
+  height: 621px;
+}
+.desktop-2-child2 {
+  text-decoration: none;
+  left: 34px;
+  background-color: var(--color-gainsboro);
+  width: 417px;
+  cursor: pointer;
+}
+.desktop-2-child3,
+.desktop-2-child4 {
+  left: 516px;
+  background-color: var(--color-skyblue);
+  width: 429px;
+}
+.desktop-2-child4 {
+  text-decoration: none;
+  left: 980px;
+  background-color: var(--color-gainsboro);
+  cursor: pointer;
+}
+.pic-4-12 {
+  position: absolute;
+  top: 2282px;
+  left: 14px;
+  width: 1477px;
+  height: 1027px;
+  object-fit: cover;
+}
+.desktop-2 {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 3612px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-6xl);
+  color: var(--color-gray-100);
+  font-family: var(--font-inter);
+}
